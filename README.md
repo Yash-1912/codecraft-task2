@@ -47,11 +47,11 @@ Please download the dataset from the above link and place it in the project fold
 
 ---
 
- Visualizations Used
-Bar chart for survival count
-Bar chart for survival rate by gender
-Histogram for age distribution
-All visualizations were created using Matplotlib.
+### Visualizations Used
+- Bar chart for survival count
+- Bar chart for survival rate by gender
+- Histogram for age distribution
+- All visualizations were created using Matplotlib.
 
 ---
 
