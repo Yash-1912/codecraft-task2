@@ -21,10 +21,6 @@ This task involves cleaning and analyzing the Titanic dataset using exploratory 
 **Dataset Source:**  
 https://www.kaggle.com/c/titanic/data
 
-**Note:**  
-The dataset file is not uploaded to this repository.  
-Please download the dataset from the above link and place it in the project folder before running the code.
-
 ---
 
 ### Tools & Libraries
